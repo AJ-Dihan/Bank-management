@@ -7,14 +7,14 @@ This C++ program implements a simple Bank Management System. It allows users to 
 To build and run the project, follow these steps:
 
 ### Clone the Repository:
-git clone https://github.com/AJ-Dihan/bank-management-system.git
+git clone https://github.com/AJ-Dihan/Bank-management
 cd bank-management-system
 
 ### Compile the Code:
-g++ main.cpp -o bank_management_system
+g++ main.cpp -o bank_management
 
 ### Run the Program:
-./bank_management_system
+./bank_management
 
 ### Follow On-Screen Instructions:
 The program will display a menu with options. Enter the corresponding number to perform the desired operation (create account, deposit, withdraw, check balance, or exit).
